@@ -23,6 +23,9 @@ https://owasp.org/www-project-security-culture/v10/4-Security_Champions/
 Product security is the goal or discipline of creating secure products, while DevSecOps is the methodology or approach used to achieve that goal by integrating security practices into the entire 
 software development lifecycle (SDLC). In essence, DevSecOps is a framework for embedding product security practices, making security everyone's responsibility rather than a separate, late-stage checkpoint. 
 
+<img width="1596" height="889" alt="image" src="https://github.com/user-attachments/assets/48a1789f-de6f-46b4-a28d-40ffec5dd602" />
+
+
 Key Difference 
 Product Security is the "What," DevSecOps is the "How" . You aim for product security, and DevSecOps is a widely adopted methodology to achieve it by transforming development culture and workflows. DevSecOps enables product security by fostering a security-first mindset and embedding security practices from the outset.
 
