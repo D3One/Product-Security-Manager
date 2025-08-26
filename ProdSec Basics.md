@@ -54,6 +54,45 @@ Main Product Security Components?
 <img width="875" height="589" alt="image" src="https://github.com/user-attachments/assets/1aa0918d-676c-4a8a-aea8-d1f0df942f3f" />
 
 
+However, steps are being taken by private and public entities to prevent these vulnerabilities from ever entering a device in the first place. 
+
+An example of this is through regulation. Executive Order 14208 demands greater transparency into coding practices, open source software (OSS) usage, and other vulnerability management steps. Drilling down into sectors:
+
+Automotive follows WP. 29 R155 & R156, ISO/SAE 21434
+Medical device manufacturers follow new FDA standards + Omnibus, IMDF, and CRA in the EU. All place tighter boundaries on what information can be collected, stored, and shared.
+
+Defining product security implications for each industry
+Now that we understand the importance of Product Security, how can we define it? Let’s break it down:
+
+Cars
+
+Vehicles rely on a highly complex software supply chain that includes both custom and open source software, much of which is structured within the AUTOSAR architecture. In addition, much of this software is capable of remote access, opening it up to potential vulnerabilities.
+OEMs and their suppliers work tirelessly to scan their code and find any potential for threat-related manipulation. However, with millions of lines of code per vehicle (some more than a modern fighter jet), it’s a daunting task that can’t be achieved with manual combing.
+
+A full product security approach is needed, including threat modeling, vulnerability management, and implementation of a cybersecurity management system (CSMS) to generate reports and comply with regulations. Once these are completed, companies can comply with WP.29 and begin building their product security incident response team (PSIRT).
+
+Medical devices
+
+Patient care relies on accurate, secure, and uninterrupted service from machines that operate in facilities and in patient homes. The safety risk for medical devices range from risk to life or limb to a diminished quality of care, resulting from inaccurate readings. 
+
+The high reliance on these devices also makes them a prized target for threat actors to hold a person or facility at ransom, potentially denying them the life-saving services they rely on. The problem becomes increasingly complex when considering that these devices are made up of potentially hundreds of embedded components, each with their own vulnerabilities. 
+
+While inaccurate readings may seem like an inconvenience, it can be the difference between life and death considering that today’s connected devices include MRI machines, infusion pumps, insulin pumps, and homecare devices that allow for a higher quality of life with remote monitoring.
+
+Industrial manufacturing and critical infrastructure
+
+Industrial equipment and critical infrastructure have increasingly become software-defined devices. This mixing of potentially legacy devices fixed upon even older non-connected devices leaves these highly prized targets exposed to safety and security concerns which can impact large regions and population centers. These connected products are prone to attacks by malicious state-sponsored groups or prize-seeking hacking groups who can hold entire utilities for ransom.
+
+Product security addresses these by understanding the unique mosaic of tools that operate on both critical infrastructure and manufacturing systems. At the same time, the US government is enhancing its reporting capabilities with CISA’s RVWP initiative and by implementing SBOM & VEX minimums.
+
+Will AppSec go away, then?
+So if ProdSec is the function that enables Secure by Design, what happens to AppSec? Many believe that it should remain — and become a subset of the broader ProdSec initiative.
+
+David Lindner, CISO for Contrast Security, said AppSec concentrates on securing the code and functionality of a single software application, but “product security takes a holistic view of the entire technology product, considering the broader environment and potential attack vectors that may emerge from the communications between various components.”
+
+EPAM Systems' Rehman said no one should think that ProdSec replaces AppSec. "Rather, it complements it, potentially incorporating it as [an underlying] layer within the security framework,” he said.
+
+
 Product Security Bad Practices
 https://www.cisa.gov/resources-tools/resources/product-security-bad-practices
 
