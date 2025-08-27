@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Product security is a holistic approach to embedding security into digital products and services throughout their entire lifecycle—from initial design and development to deployment and ongoing maintenance. It aims to protect against tampering, cyberattacks, data breaches, and counterfeiting by integrating security practices like threat modeling, secure coding, and continuous monitoring into the product ecosystem. Product security focuses on the product and its entire ecosystem, differentiating it from application security, which concentrates on securing the code itself. 
+Product security is a holistic approach to embedding security into digital products and services throughout their entire lifecycle—from initial design and development to deployment and ongoing maintenance. It aims to protect against tampering, cyberattacks, data breaches, and counterfeiting by integrating security practices like threat modeling, secure coding, and continuous monitoring into the product ecosystem. Product security focuses on the product and its entire ecosystem, differentiating it from application security (AppSec), which concentrates on securing the code itself and DevSecOps, which concentrates on securing the development pipiline.
 
 ## Product security framework
 
