@@ -1,6 +1,6 @@
 
 
-## Whatis a Product Security Manager?
+## What (Who) is a Product Security Manager?
 
 A Product Security Manager plays a critical role in protecting an organization’s products throughout the software development lifecycle. This position is central to safeguarding the integrity and reliability of products by managing security strategies and ensuring robust defenses against vulnerabilities. In today’s dynamic technological environment, a dedicated product security professional helps build trust with customers and stakeholders by implementing proactive security measures.
 
