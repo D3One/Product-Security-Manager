@@ -48,15 +48,15 @@ Product security addresses these by understanding the unique mosaic of tools tha
 
 ---
 
-[What is Product Security?](https://github.com/D3One/Product-Security-Manager-/blob/main/ProdSec%20Basics.md)
+✅ [What is Product Security?](https://github.com/D3One/Product-Security-Manager-/blob/main/ProdSec%20Basics.md)
 
-[Interview Questions for a Product Security Manager Role](https://github.com/D3One/Product-Security-Manager-/blob/main/ProdSec%20Job%20Interview%20Q%26A.md)
+✅ [Interview Questions for a Product Security Manager Role](https://github.com/D3One/Product-Security-Manager-/blob/main/ProdSec%20Job%20Interview%20Q%26A.md)
 
-[Who is a Product Security Manager?](https://github.com/D3One/Product-Security-Manager-/blob/main/ProdSec%20Manager.md)
+✅ [Who is a Product Security Manager?](https://github.com/D3One/Product-Security-Manager-/blob/main/ProdSec%20Manager.md)
 
-[Product Secuity Manager is not Security Champion (AppSec) or DevSecOps or BISO](https://github.com/D3One/Product-Security-Manager-/blob/main/ProdSec_AppSec_DevSecOps_SecChamp.md)
+✅ [Product Secuity Manager is not Security Champion (AppSec) or DevSecOps or BISO](https://github.com/D3One/Product-Security-Manager-/blob/main/ProdSec_AppSec_DevSecOps_SecChamp.md)
 
-[Salary review and Perspectives](https://github.com/D3One/Product-Security-Manager-/blob/main/Salary_Perspectives.md)
+✅ [Salary review and Perspectives](https://github.com/D3One/Product-Security-Manager-/blob/main/Salary_Perspectives.md)
 
 ## Product Security Strategy (framework) created by Ivan Piskunov 
 
