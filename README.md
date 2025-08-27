@@ -58,3 +58,8 @@ Product security addresses these by understanding the unique mosaic of tools tha
 
 [Salary review and Perspectives](https://github.com/D3One/Product-Security-Manager-/blob/main/Salary_Perspectives.md)
 
+## Product security framework created by Ivan Piskunov
+
+<img width="1413" height="910" alt="image" src="https://github.com/user-attachments/assets/2e99a95f-610e-4067-8d46-5f456b7fff64" />
+
+- - - 
