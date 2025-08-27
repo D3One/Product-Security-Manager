@@ -44,15 +44,17 @@ Industrial equipment and critical infrastructure have increasingly become softwa
 
 Product security addresses these by understanding the unique mosaic of tools that operate on both critical infrastructure and manufacturing systems. At the same time, the US government is enhancing its reporting capabilities with CISA’s RVWP initiative and by implementing SBOM & VEX minimums.
 
+### Attention!!! Product Secuirty is not AppSec or DevSecOps
+
 ---
 
-[What is Product Security](https://github.com/D3One/Product-Security-Manager-/blob/main/ProdSec%20Basics.md)
+[What is Product Security?](https://github.com/D3One/Product-Security-Manager-/blob/main/ProdSec%20Basics.md)
 
 [Interview Questions for a Product Security Manager Role](https://github.com/D3One/Product-Security-Manager-/blob/main/ProdSec%20Job%20Interview%20Q%26A.md)
 
-[What is a Product Security Manager?](https://github.com/D3One/Product-Security-Manager-/blob/main/ProdSec%20Manager.md)
+[Who is a Product Security Manager?](https://github.com/D3One/Product-Security-Manager-/blob/main/ProdSec%20Manager.md)
 
-[Product Secuity Manager is not Security Champion (AppSec)or DevSecOps](https://github.com/D3One/Product-Security-Manager-/blob/main/ProdSec_AppSec_DevSecOps_SecChamp.md)
+[Product Secuity Manager is not Security Champion (AppSec) or DevSecOps or BISO](https://github.com/D3One/Product-Security-Manager-/blob/main/ProdSec_AppSec_DevSecOps_SecChamp.md)
 
 [Salary review and Perspectives](https://github.com/D3One/Product-Security-Manager-/blob/main/Salary_Perspectives.md)
 
