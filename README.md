@@ -60,7 +60,7 @@ Product security addresses these by understanding the unique mosaic of tools tha
 
 ## Product Security Strategy (framework) created by Ivan Piskunov 
 
-PDF is avalible 
+PDF is avalible [here](https://github.com/D3One/Product-Security-Manager-/blob/main/Strategy/README.md)
 
 <img width="1413" height="910" alt="image" src="https://github.com/user-attachments/assets/2e99a95f-610e-4067-8d46-5f456b7fff64" />
 
