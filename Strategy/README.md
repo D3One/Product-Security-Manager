@@ -1,7 +1,7 @@
 
-#Product Security Strategy (framework) created by Ivan Piskunov
+# Product Security Strategy (framework) created by Ivan Piskunov
 
-_PDF is avalible_
+_PDF is avalible_ (request for I.P)
 
 <img width="1413" height="910" alt="image" src="https://github.com/user-attachments/assets/9a97b698-9720-4bd7-83c8-97af2c00d0b6" />
 
