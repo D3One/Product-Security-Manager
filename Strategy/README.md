@@ -13,10 +13,17 @@ _PDF is avalible_
 
 **Target Audience:** C-Level Executives, Board of Directors, Head of Product, Head of Engineering 
 
-**Strategic Objective: **To establish a proactive, risk-based, and business-aligned Product Security program that protects our customers, safeguards our assets, ensures compliance, and provides a competitive market advantage.
+**Strategic Objective:** To establish a proactive, risk-based, and business-aligned Product Security program that protects our customers, safeguards our assets, ensures compliance, and provides a competitive market advantage.
 ________________________________________
 ### Executive Summary
 
-This document outlines a multi-year strategy to embed security into the core of our product development lifecycle. Moving beyond reactive measures, this framework is built on four interconnected pillars: 1. Secure Foundation, 2. Secure Development, 3. Secure Operations, and 4. Governance & Compliance. The goal is to transform Product Security from a cost center into a key business enabler, mitigating catastrophic risk and building unwavering customer trust.
+This document outlines a multi-year strategy to embed security into the core of our product development lifecycle. Moving beyond reactive measures, this framework is built on four interconnected pillars: 
+1. Secure Foundation,
+2. Secure Development,
+3. Secure Operations, and
+4. Governance & Compliance.
+   
+The goal is to transform Product Security from a cost center into a key business enabler, mitigating catastrophic risk and building unwavering customer trust.
 ________________________________________
 
+- - - 
