@@ -10,7 +10,7 @@ But I soon realized there was a ceiling. We were excellently securing *what we b
 
 In the US tech landscape, especially in automotive, aerospace, and medical device industries, ProdSec is a well-established, critical function. Elsewhere, it’s often misunderstood or lumped in with AppSec. It is so much more. Product Security isn't a task; it's a strategic mindset. It’s the discipline of managing the security, safety, and trustworthiness of a product as a whole—from its conception to its decommissioning in a customer's environment.
 
-#### **AppSec and DevSecOps are the "How." Product Security is the "Why."**
+#### **AppSec and DevSecOps are the "How?" Product Security is the "Why?"**
 
 To understand ProdSec, it’s essential to see how it builds upon and differs from its foundational layers:
 
@@ -57,6 +57,6 @@ Product Security is not the next job title; it's the evolution of security from 
 The question for leaders isn't whether they can afford to invest in Product Security, but whether they can afford the catastrophic cost of not doing so.
 
 ---
-**About the Author:** Ivan Piskuniv is a Product Security Strategist with a background in AppSec engineering and Security Champion roles. He specializes in building and leading Product Security programs for high-reliability systems in the automotive and aerospace sectors, transforming security from a technical requirement into a strategic business enabler.
+**About the Author:** Ivan Piskuniv is a Product Security Strategist with a background in AppSec engineering and Security Champion roles. 
 
 ---
